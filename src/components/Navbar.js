@@ -26,6 +26,9 @@ export class Navbar extends Component {
                         <li className="nav-item">
                         <a className="nav-link" href="/">My team</a>
                         </li>
+                           <li className="nav-item">
+                        <a className="nav-link" href="/">about our college</a>
+                        </li>
                         {/* <li className="nav-item dropdown">
                         <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Dropdown
